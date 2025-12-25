@@ -15,7 +15,7 @@ The dataset used in this project is the **Telco Customer Churn** dataset. It typ
 * **Target Variable**: `Churn` (Yes = Customer left, No = Customer stayed)
 
 ## Technologies Used
-* **Python 3.x**
+* **Python 3.11**
 * **Jupyter Notebook**
 * **Pandas**: Data manipulation and cleaning.
 * **NumPy**: Numerical operations.
